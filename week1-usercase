@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T23:14:02.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="tazXAQFk760ogfxLPbRx" version="13.7.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-19T23:46:13.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="tT3jizeqkR-9TWmWyVMM" version="13.7.3" type="github" pages="8">
   <diagram name="user-case" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="958" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -330,6 +330,67 @@
             <mxPoint x="390" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VVIOE-OpX0thQhNiQdf5" name="state">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-0" />
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-1" parent="RVaRdexNwgJ6tbuCBOZe-0" />
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="310" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="RVaRdexNwgJ6tbuCBOZe-2" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="120" />
+              <mxPoint x="325" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-4" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="310" y="465" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RVaRdexNwgJ6tbuCBOZe-1" source="RVaRdexNwgJ6tbuCBOZe-9" target="RVaRdexNwgJ6tbuCBOZe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-9" value="new" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="265" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RVaRdexNwgJ6tbuCBOZe-1" source="RVaRdexNwgJ6tbuCBOZe-10" target="RVaRdexNwgJ6tbuCBOZe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-10" value="active" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="265" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RVaRdexNwgJ6tbuCBOZe-1" source="RVaRdexNwgJ6tbuCBOZe-14" target="RVaRdexNwgJ6tbuCBOZe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-14" value="close" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="265" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-17" value="state user status" style="shape=umlFrame;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="120" y="40" width="430" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-20" value="用户唯一性判断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="240" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-22" value="验证激活" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="255" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVaRdexNwgJ6tbuCBOZe-23" value="用户不在使用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RVaRdexNwgJ6tbuCBOZe-1">
+          <mxGeometry x="240" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="og2kpRyA5An206YpSajn" name="ACTIVITY">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qzWa9JDRbVmNc6uAH6-G-0" />
+        <mxCell id="qzWa9JDRbVmNc6uAH6-G-1" parent="qzWa9JDRbVmNc6uAH6-G-0" />
       </root>
     </mxGraphModel>
   </diagram>
