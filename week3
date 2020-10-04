@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T11:15:30.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="TMbJcw6Db45TAxFF2sZk" version="13.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-04T11:20:43.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="hu_MREa8R-uM-wGKkETz" version="13.7.5" type="github" pages="4">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="1">
       <root>
@@ -257,6 +257,41 @@
         <mxCell id="PhZM8WUABe0qJNaA8gH6-53" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhZM8WUABe0qJNaA8gH6-52">
           <mxGeometry x="0.6873" y="-8" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IJD7a_KX1tndoVox3Y6i" name="Page-4">
+    <mxGraphModel dx="770" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5GtF32F_tyDVuQXYMQls-0" />
+        <mxCell id="5GtF32F_tyDVuQXYMQls-1" parent="5GtF32F_tyDVuQXYMQls-0" />
+        <mxCell id="5GtF32F_tyDVuQXYMQls-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5GtF32F_tyDVuQXYMQls-1" source="5GtF32F_tyDVuQXYMQls-6" target="5GtF32F_tyDVuQXYMQls-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5GtF32F_tyDVuQXYMQls-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5GtF32F_tyDVuQXYMQls-1" source="5GtF32F_tyDVuQXYMQls-6" target="5GtF32F_tyDVuQXYMQls-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5GtF32F_tyDVuQXYMQls-6" value="Client" style="html=1;" vertex="1" parent="5GtF32F_tyDVuQXYMQls-1">
+          <mxGeometry x="110" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5GtF32F_tyDVuQXYMQls-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5GtF32F_tyDVuQXYMQls-1" source="5GtF32F_tyDVuQXYMQls-7" target="5GtF32F_tyDVuQXYMQls-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5GtF32F_tyDVuQXYMQls-7" value="SorterFactory" style="html=1;" vertex="1" parent="5GtF32F_tyDVuQXYMQls-1">
+          <mxGeometry x="110" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5GtF32F_tyDVuQXYMQls-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Sorter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="5GtF32F_tyDVuQXYMQls-1">
+          <mxGeometry x="430" y="150" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5GtF32F_tyDVuQXYMQls-9" value="BubbleSorter" style="html=1;" vertex="1" parent="5GtF32F_tyDVuQXYMQls-1">
+          <mxGeometry x="430" y="280" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5GtF32F_tyDVuQXYMQls-10" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="5GtF32F_tyDVuQXYMQls-1" target="5GtF32F_tyDVuQXYMQls-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="525" y="280" as="sourcePoint" />
+            <mxPoint x="680" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
