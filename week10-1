@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T21:05:46.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="6MFKEdx5TrBwBu8x546T" version="13.10.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-25T21:06:04.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="9-xRgH6_2Azr0BL4rpUd" version="13.10.2" type="github" pages="2">
   <diagram id="hK_BhqyfaykBRUiGJdB_" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5xfd-kMJ06uc-e4zTVQY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s25q4ldJDlRCIwmejtM8-1" target="s25q4ldJDlRCIwmejtM8-2">
+        <mxCell id="5xfd-kMJ06uc-e4zTVQY-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curved=1;" edge="1" parent="1" source="s25q4ldJDlRCIwmejtM8-1" target="s25q4ldJDlRCIwmejtM8-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="180" />
@@ -12,13 +12,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s25q4ldJDlRCIwmejtM8-1" value="服务提供者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="s25q4ldJDlRCIwmejtM8-1" value="服务提供者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="231" y="60" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="5xfd-kMJ06uc-e4zTVQY-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="s25q4ldJDlRCIwmejtM8-1">
+        <mxCell id="5xfd-kMJ06uc-e4zTVQY-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;rounded=1;" vertex="1" parent="s25q4ldJDlRCIwmejtM8-1">
           <mxGeometry x="45" y="60" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="s25q4ldJDlRCIwmejtM8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="s25q4ldJDlRCIwmejtM8-3" edge="1">
+        <mxCell id="s25q4ldJDlRCIwmejtM8-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curved=1;" parent="1" target="s25q4ldJDlRCIwmejtM8-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="254" />
@@ -28,12 +28,12 @@
             <mxPoint x="560" y="254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5xfd-kMJ06uc-e4zTVQY-1" value="服务注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s25q4ldJDlRCIwmejtM8-5">
+        <mxCell id="5xfd-kMJ06uc-e4zTVQY-1" value="服务注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F1FAEE;fontColor=#1D3557;sketch=1;rounded=1;" vertex="1" connectable="0" parent="s25q4ldJDlRCIwmejtM8-5">
           <mxGeometry x="0.1671" y="4" relative="1" as="geometry">
             <mxPoint x="-11.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5xfd-kMJ06uc-e4zTVQY-2" value="服务发现" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s25q4ldJDlRCIwmejtM8-2">
+        <mxCell id="5xfd-kMJ06uc-e4zTVQY-2" value="服务发现" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;curved=1;" edge="1" parent="1" source="s25q4ldJDlRCIwmejtM8-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="140" as="targetPoint" />
             <Array as="points">
@@ -41,13 +41,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s25q4ldJDlRCIwmejtM8-2" value="&amp;nbsp;服务容器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="s25q4ldJDlRCIwmejtM8-2" value="&amp;nbsp;服务容器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="60" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="5xfd-kMJ06uc-e4zTVQY-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="s25q4ldJDlRCIwmejtM8-2">
+        <mxCell id="5xfd-kMJ06uc-e4zTVQY-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;rounded=1;" vertex="1" parent="s25q4ldJDlRCIwmejtM8-2">
           <mxGeometry x="45" y="60" width="10" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="s25q4ldJDlRCIwmejtM8-3" value="服务注册中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="s25q4ldJDlRCIwmejtM8-3" value="服务注册中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="60" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
