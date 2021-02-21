@@ -1,38 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T10:40:01.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="b4EW6aBw4WhrId1zwEU5" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T10:48:38.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Ts-5auTbCgQlRAyjAuNJ" version="14.4.2" type="github">
   <diagram id="7OOYx0Equh1Zh9e8aBkR" name="Page-1">
-    <mxGraphModel dx="1755" dy="152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tjnQ8O76cWizRx_BHWXR-3" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=auto;sketch=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="265" y="20" width="215" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="tjnQ8O76cWizRx_BHWXR-5" value="&lt;b&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 15px ; font-style: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=auto;sketch=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="5" y="170" width="250" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="tjnQ8O76cWizRx_BHWXR-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;修改版本必须保持&lt;br&gt;和原有的许可证&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="265" y="60" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tjnQ8O76cWizRx_BHWXR-7" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=auto;sketch=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="250" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="tjnQ8O76cWizRx_BHWXR-9" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=auto;sketch=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="500" y="410" width="250" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="tjnQ8O76cWizRx_BHWXR-8" value="衍生软件是否可以&lt;br&gt;使用你的名字促销" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="515" y="450" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tjnQ8O76cWizRx_BHWXR-11" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=auto;sketch=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="450" width="250" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="tjnQ8O76cWizRx_BHWXR-12" value="对源代码修改之处&lt;br&gt;提供说明文档" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5" y="490" width="220" height="40" as="geometry" />
+          <mxGeometry x="-10" y="60" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjnQ8O76cWizRx_BHWXR-13" value="&lt;br&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 15px ; text-align: left&quot;&gt;相关全部组件必须根据&lt;br&gt;相同或兼容的许可证&lt;/span&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="-155" y="185" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjnQ8O76cWizRx_BHWXR-15" value="&lt;b style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;每个文件必须包含所有有关更改，&lt;br&gt;版权和专利保护的信息&lt;/span&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="364" y="205" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-16" value="&lt;br&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 15px ; font-style: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;禁止DRM锁定固件，专利&lt;br&gt;套装，更广泛的许可证兼容性&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-18" value="&lt;br&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 15px ; font-style: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;禁止DRM锁定固件，专利&lt;br&gt;套装，更广泛的许可证兼容性&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-19" value="&lt;br&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; font-size: 15px&quot;&gt;禁止使用版权持有人的名字&lt;br&gt;进行复制&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tjnQ8O76cWizRx_BHWXR-23" target="tjnQ8O76cWizRx_BHWXR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tjnQ8O76cWizRx_BHWXR-23" target="tjnQ8O76cWizRx_BHWXR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-23" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tjnQ8O76cWizRx_BHWXR-24" target="tjnQ8O76cWizRx_BHWXR-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tjnQ8O76cWizRx_BHWXR-24" target="tjnQ8O76cWizRx_BHWXR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-24" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="185" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-25" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="340" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-27" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="340" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.544;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tjnQ8O76cWizRx_BHWXR-28" target="tjnQ8O76cWizRx_BHWXR-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="593" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-28" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284" y="185" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-29" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="330" width="226" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-34" value="是" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-35" value="否" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-36" value="是" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="265" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-39" value="否" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-41" value="否" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="245" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjnQ8O76cWizRx_BHWXR-42" value="Apache License2" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
